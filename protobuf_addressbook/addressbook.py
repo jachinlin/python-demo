@@ -2,7 +2,7 @@
 
 import logging
 
-from addressbook import addressbook_pb2
+from protobuf_addressbook import addressbook_pb2
 
 
 logger = logging.getLogger(__name__)
